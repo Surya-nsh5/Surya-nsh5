@@ -20,8 +20,6 @@ Hey there! Welcome to my corner of GitHub! Here's a quick snapshot about me:
 - 🎯 **2025 Goals:** [Your ambitious or fun goals for the year]  
 - ⚡ **Fun fact:** [Add a quirky or fun fact about yourself]
 
-> 🌟 _"Code is like humor. When you have to explain it, it’s bad."_ - [Cory House]  
-
 ---
 
 ## 🛠️ My Toolbox
