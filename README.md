@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Tech+Enthusiast;Open-Source+Contributor+%7C+Problem+Solver;Building+Ideas+into+Reality+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" height="200" alt="Animated GIF">
-</p>
-
 ---
 
 ## 🚀 About Me
