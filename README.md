@@ -11,7 +11,7 @@
 Hey there! Welcome to my corner of GitHub! Here's a quick snapshot about me:
 
 - 🔭 **Currently working on:** Game And Web Development  
-- 🌱 **Currently learning:** C# and JavaScript  
+- 🌱 **Currently learning:** C++ and JavaScript  
 - 💬 **Ask me about:** Programming, open-source, tech trends, or anything cool!  
 
 ---
