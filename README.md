@@ -33,7 +33,7 @@ Hey there! Welcome to my corner of GitHub! Here's a quick snapshot about me:
 
 | 🚀 **Project Name** | Description                                  | 🔗 Links  |
 |---------------------|----------------------------------------------|-----------|
-| **[Malware Detection System]**  | A tool used to detect the malware from files, url and applications. | [Link](#https://github.com/Surya-nsh5/CyberTrex) |
+| **[Malware Detection System]**  | A tool used to detect the malware from files, url and applications. | [https://github.com/Surya-nsh5/CyberTrex](#) |
 | **[Project 2](#)**  | A fun or impactful description here.        | [GitHub](#) |
 | **[Project 3](#)**  | Highlight the tech stack or features.       | [GitHub](#) |
 
