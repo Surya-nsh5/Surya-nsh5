@@ -33,18 +33,9 @@ Hey there! Welcome to my corner of GitHub! Here's a quick snapshot about me:
 
 | 🚀 **Project Name** | Description                                  | 🔗 Links  |
 |---------------------|----------------------------------------------|-----------|
-| **[Project 1](#)**  | A brief description of what your project does. | [GitHub](#) |
+| **[Malware Detection System]**  | A tool used to detect the malware from files, url and applications. | [Link](#https://github.com/Surya-nsh5/CyberTrex) |
 | **[Project 2](#)**  | A fun or impactful description here.        | [GitHub](#) |
 | **[Project 3](#)**  | Highlight the tech stack or features.       | [GitHub](#) |
 
 ---
 
-## 🌐 Let's Connect!  
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
