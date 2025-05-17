@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Suryansh Chauhan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Tech+Enthusiast;Open-Source+Contributor+%7C+Problem+Solver;Building+Ideas+into+Reality+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=%7C+Tech+Enthusiast;Problem+Solver;Building+Ideas+into+Reality+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,7 @@ Hey there! Welcome to my corner of GitHub! Here's a quick snapshot about me:
 
 - 🔭 **Currently working on:** Cybersecurity and Game Development  
 - 🌱 **Currently learning:** C++ and Java  
-- 💬 **Ask me about:** Programming, open-source, tech trends, or anything cool!  
+- 💬 **Ask me about:** Programming, tech trends, or anything cool!  
 
 ---
 
