@@ -10,8 +10,8 @@
 
 Hey there! Welcome to my corner of GitHub! Here's a quick snapshot about me:
 
-- 🔭 **Currently working on:** Cybersecurity and Game Development  
-- 🌱 **Currently learning:** C++ and Java  
+- 🔭 **Currently working on:** Cybersecurity 
+- 🌱 **Currently learning:** Java and Python  
 - 💬 **Ask me about:** Programming, tech trends, or anything cool!  
 
 ---
