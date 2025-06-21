@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Suryansh Chauhan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=%7C+Tech+Enthusiast;Problem+Solver;Building+Ideas+into+Reality+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=+Tech+Enthusiast;Problem+Solver;Building+Ideas+into+Reality+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
@@ -33,8 +33,8 @@ Hey there! Welcome to my corner of GitHub! Here's a quick snapshot about me:
 
 | 🚀 **Project Name** | Description                                  | 🔗 Links  |
 |---------------------|----------------------------------------------|-----------|
-| **Malware Detection System**  | A tool used to detect the malware from files, url and applications. | [Link](https://github.com/Surya-nsh5/CyberTrex/) |
-| **[Project 2](#)**  | A fun or impactful description here.        | [GitHub](#) |
+| **Malware Threat Detection System**  | A tool used to detect the malware from files, url and applications. | [Link](https://github.com/Surya-nsh5/CyberTrex/) |
+| **Innovative Food Logistics**  | It is friendly user interface to connect with small restaurants and delivery make fast by displaying nearest restaurant from their location and optimized route. | [Link]([https://github.com/Surya-nsh5/CyberTrex/](https://github.com/shardulsemwal/SwapDealers)) |
 | **[Project 3](#)**  | Highlight the tech stack or features.       | [GitHub](#) |
 
 ---
