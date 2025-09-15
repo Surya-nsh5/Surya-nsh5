@@ -42,7 +42,7 @@ Hey there! Welcome to my corner of GitHub! Here's a quick snapshot about me:
 |---------------------|----------------------------------------------|-----------|
 | **Malware Threat Detection System**  | A tool used to detect the malware from files, url and applications. | [Link](https://github.com/Surya-nsh5/CyberTrex/) |
 | **Innovative Food Logistics**  | It is friendly user interface to connect with small restaurants and delivery make fast by displaying nearest restaurant from their location and optimized route. | [Link](https://github.com/shardulsemwal/SwapDealers) |
-| **[Project 3](#)**  | Highlight the tech stack or features.       | [GitHub](#) |
+| **Personal Portfolio**  | User friendly and responsive personal portfolio.       | [Live Demo](suryanshschauhan.vercel.app) |
 
 ---
 
