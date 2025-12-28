@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Suryansh Chauhan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=+Tech+Enthusiast;Problem+Solver;Building+Ideas+into+Reality+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00ADB5&center=true&vCenter=true&width=650&lines=Problem+Solver+%F0%9F%A4%96;Building+Ideas+into+Reality+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%93%9A;Passionate+About+Innovation+%F0%9F%9B%A0;Sharing+Knowledge+%F0%9F%92%AC" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 Hey there! Welcome to my corner of GitHub! Here's a quick snapshot about me:
 
 - 🔭 **Currently working on:** Cybersecurity 
-- 🌱 **Currently learning:** Java and Python  
+- 🌱 **Currently learning:** Python  
 - 💬 **Ask me about:** Programming, tech trends, or anything cool!  
 
 ---
@@ -32,6 +32,7 @@ Hey there! Welcome to my corner of GitHub! Here's a quick snapshot about me:
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </div>
 
 ---
@@ -41,8 +42,10 @@ Hey there! Welcome to my corner of GitHub! Here's a quick snapshot about me:
 | 🚀 **Project Name** | Description                                  | 🔗 Links  |
 |---------------------|----------------------------------------------|-----------|
 | **Malware Threat Detection System**  | A tool used to detect the malware from files, url and applications. | [Link](https://github.com/Surya-nsh5/CyberTrex/) |
-| **Innovative Food Logistics**  | It is friendly user interface to connect with small restaurants and delivery make fast by displaying nearest restaurant from their location and optimized route. | [Link](https://github.com/shardulsemwal/SwapDealers) |
 | **Personal Portfolio**  | User friendly and responsive personal portfolio.       | [Live](https://suryanshchauhan.vercel.app/) |
+| **AI-Powered Finance Tracker System (FINBUG)**  | A platform to maintain your personal budgets tracking with AI integration.       | [Link](https://github.com/Surya-nsh5/BitCreates) |
+| **ML Based Intelligent Cache Replacement**  | A simulation tool that display the concept of cache replacement using ml and old algorithm .       | [Live](https://mlcachereplacement.onrender.com) |
+| **Innovative Food Logistics**  | It is friendly user interface to connect with small restaurants and delivery make fast by displaying nearest restaurant from their location and optimized route. | [Link](https://github.com/Surya-nsh5/InnovativeFoodLogistics) |
 
 ---
 
