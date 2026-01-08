@@ -1,8 +1,5 @@
-<h1 align="center">👋 Hi, I'm Suryansh Chauhan</h1>
+<h1 align="left">👋 Hi, I'm Suryansh Chauhan</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00ADB5&center=true&vCenter=true&width=650&lines=Problem+Solver+%F0%9F%A4%96;Building+Ideas+into+Reality+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%93%9A;Passionate+About+Innovation+%F0%9F%9B%A0;Sharing+Knowledge+%F0%9F%92%AC" alt="Typing SVG" />
-</p>
 
 ---
 
@@ -18,7 +15,7 @@ Hey there! Welcome to my corner of GitHub! Here's a quick snapshot about me:
 
 ## 🛠️ My Toolbox
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
@@ -65,6 +62,10 @@ Hey there! Welcome to my corner of GitHub! Here's a quick snapshot about me:
 | **Innovative Food Logistics**  | It is friendly user interface to connect with small restaurants and delivery make fast by displaying nearest restaurant from their location and optimized route. | [Link](https://github.com/Surya-nsh5/InnovativeFoodLogistics) |
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00ADB5&center=true&vCenter=true&width=650&lines=Problem+Solver+%F0%9F%A4%96;Building+Ideas+into+Reality+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%93%9A;Passionate+About+Innovation+%F0%9F%9B%A0;Sharing+Knowledge+%F0%9F%92%AC" alt="Typing SVG" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surya-nsh5/Surya-nsh5/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Surya-nsh5/Surya-nsh5/output/pacman-contribution-graph.svg">
