@@ -56,9 +56,8 @@ Hey there! Welcome to my corner of GitHub! Here's a quick snapshot about me:
 |---------------------|----------------------------------------------|-----------|
 | **Malware Threat Detection System**  | A tool used to detect the malware from files, url and applications. | [Link](https://github.com/Surya-nsh5/CyberTrex/) |
 | **Personal Portfolio**  | User friendly and responsive personal portfolio.       | [Live](https://suryanshchauhan.vercel.app/) |
-| **AI-Powered Finance Tracker System (FINBUG)**  | A platform to maintain your personal budgets tracking with AI integration.       | [Link](https://github.com/Surya-nsh5/BitCreates) |
+| **AI-Powered Finance Tracker System (FINBUG)**  | A platform to maintain your personal budgets tracking with AI integration.       | [Link](https://finrace.vercel.app) |
 | **ML Based Intelligent Cache Replacement**  | A simulation tool that display the concept of cache replacement using ml and old algorithm .       | [Live](https://mlcachereplacement.onrender.com) |
-| **Innovative Food Logistics**  | It is friendly user interface to connect with small restaurants and delivery make fast by displaying nearest restaurant from their location and optimized route. | [Link](https://github.com/Surya-nsh5/InnovativeFoodLogistics) |
 
 ---
 <!-- <p align="center">
