@@ -10,57 +10,6 @@ Hey there! Welcome to my corner of GitHub! Here's a quick snapshot about me:
 - 🌱 **Currently learning:** Python and Dart
 - 💬 **Ask me about:** Programming, tech trends, or anything cool!  
 
-<!---
-
-## 🛠️ My Toolbox
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-</div>
-
----
-
-## 🌟 Featured Projects  
-
-| 🚀 **Project Name** | Description                                  | 🔗 Links  |
-|---------------------|----------------------------------------------|-----------|
-| **Malware Threat Detection System**  | A tool used to detect the malware from files, url and applications. | [Link](https://github.com/Surya-nsh5/CyberTrex/) |
-| **Personal Portfolio**  | User friendly and responsive personal portfolio.       | [Live](https://suryanshchauhan.vercel.app/) |
-| **AI-Powered Finance Tracker System (FINBUG)**  | A platform to maintain your personal budgets tracking with AI integration.       | [Link](https://finrace.vercel.app) |
-| **ML Based Intelligent Cache Replacement**  | A simulation tool that display the concept of cache replacement using ml and old algorithm .       | [Live](https://mlcachereplacement.onrender.com) |
-
---->
-
 ---
 
 ## 🧰 Tech Stack
@@ -191,7 +140,7 @@ A simulation platform demonstrating cache replacement policies using machine-lea
 <li>🌐 Interactive web interface</li>
 </ul>
 
-<a href="https://mlcachereplacement.onrender.com](https://cachereplacement.vercel.app/">
+<a href="https://cachereplacement.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-18181B?style=for-the-badge&logo=render&logoColor=white"/>
 </a>
 
