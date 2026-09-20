@@ -61,7 +61,7 @@ Hey there! Welcome to my corner of GitHub! Here's a quick snapshot about me:
 
 <td width="50%" valign="top">
 
-<h3>🛡️ CyberTrex</h3>
+<h3>🛡️ MalDefend</h3>
 
 <b>Malware Threat Detection System</b>
 
@@ -120,7 +120,7 @@ An intelligent personal finance management platform focused on smart budgeting, 
 
 <td width="50%" valign="top">
 
-<h3>⚡ ML Cache Replacement</h3>
+<h3>⚡ Intelligent Cache Replacement</h3>
 
 <b>Machine Learning Cache Simulator</b>
 
